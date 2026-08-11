@@ -1,3 +1,10 @@
+## ⚠️ Caution ❌
+This project is shared for **learning and reference purposes only**.
+
+**Please do not copy my code exactly.** Try to understand the concepts and write your own code. You may use this project to understand how **File Handling** and **Bubble Sort** work together, but your implementation should be your own.
+
+> **Learn the logic, don't just copy the code.** 😊
+
 # Bubble Sort Using File Handling in C
 
 ## 📌 Homework সম্পর্কে

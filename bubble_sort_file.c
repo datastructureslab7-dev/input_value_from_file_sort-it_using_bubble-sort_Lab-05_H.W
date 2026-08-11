@@ -38,6 +38,8 @@ int main(){
         fprintf(myfile, "%d ", arr[i]);
     }
 
+    fclose(myfile);
+
 
     return 0;
 }
